@@ -590,6 +590,7 @@ input::-ms-input-placeholder {
     font-size: 1rem;
     color: #413d4b;font-weight: bold
 }
+
 .navbar-brand {
     padding: 0px 20px;
 }
@@ -1450,7 +1451,7 @@ li .single_team_text p{
 
 }
 
-.uplod{width: 100%;height: 450px;background-image: url(../images/eeee.gif);padding-top: 3%;background-size: cover;background-position: center center;background-repeat: no-repeat;background-attachment: fixed;position: relative}
+.uplod{width: 100%;height: 450px;background-image: url(../images/ppp.jpg);padding-top: 3%;background-size: cover;background-position: center center;background-repeat: no-repeat;background-attachment: fixed;position: relative}
 .uplod>.ddede{width: 50%;height: 100%}
 .uplodsss>.ddede>.a222222{display: none;transition: all .3s;position: absolute;width: 20%;margin: 0 auto}
 .uplodsss>.ddede>.a121212{text-align: center; padding-top: 1%;position: absolute;left: 0;right: 0;width: 20%;margin: 0 auto}
@@ -1499,6 +1500,7 @@ li .single_team_text p{
     #ddqqddqq{top: 20%;margin-left: 0%}
     .main_service .head_title h2{
         margin-left: 10.5%}
+    .uplod{background-image: url(../images/ppp_2.jpg)}
     
     
 }
